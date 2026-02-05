@@ -1,7 +1,5 @@
-## Hi, I'm Yuyu Chen
+## CHEN Yu-Yu（陳育渝）
 
-I'm a junior student at **NTNU CSIE (National Taiwan Normal University, Computer Science & Information Engineering)**.  
-I love turning my weird ideas into real projects through development. 💻 ...
+Currently studying in the Department of Computer Science at National Taiwan Normal University.
 
-## Contact me
-- Email: [info@cyucccx.cc](mailto:info@cyucccx.cc)
+Passionate about UI/UX Design and Frontend Development.
